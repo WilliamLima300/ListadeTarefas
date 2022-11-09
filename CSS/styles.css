@@ -92,10 +92,9 @@ body{
     border-radius: 10px;
     box-shadow: 0 15px 30px #2b2a2a;
     width:100%;
-}
-.task-item p{
     cursor:pointer;
 }
+
 .task-item i{
     background-color: #191818 ;
     padding:12px;
